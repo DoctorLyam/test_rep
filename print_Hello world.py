@@ -1,2 +1,2 @@
 print('Hello world!')
-print(2+2+4+5)
+print('QA')
