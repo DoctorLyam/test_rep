@@ -1,2 +1,2 @@
 print('Hello world!')
-print('QA_1')
+print('QA_2')
